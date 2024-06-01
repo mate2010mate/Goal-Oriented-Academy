@@ -1,0 +1,8 @@
+massage ="Game over"
+print(massage)
+ 
+name ="Anna"
+age = "96"
+
+print(name)
+print(age)
